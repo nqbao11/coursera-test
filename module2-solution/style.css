@@ -33,6 +33,14 @@ section > div:nth-child(2) {
     padding: 10px;
     text-align: justify;
 }
+.reference{
+    font-size: 110%;
+    text-align: center;
+    margin-top:10% ;
+}
+.reference a {
+    display: inline;
+}
 @media (min-width:992px){
     .col-lg-4{
         width: 33.33%;
