@@ -23,11 +23,19 @@ h1 {
 .header {
     font-size: 150%;
     position: relative;
-    background-color: aqua;
     text-align: center;
     border: 3px solid black;
     left: 60%;
     width: 40%;
+}
+.chicken {
+    background-color: rgb(197, 131, 51);
+}
+.beef {
+    background-color: rgb(134, 10, 10);
+}
+.sushi {
+    background-color: aqua;
 }
 section > div:nth-child(2) {
     padding: 10px;
