@@ -1,0 +1,10 @@
+.list {
+    border: 1px solid black;
+    margin: 1px;
+}
+.box{
+    background-color: bisque;
+    padding: 0 10px;
+    margin: 20px;
+
+}
